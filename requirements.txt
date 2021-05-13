@@ -1,0 +1,2 @@
+pysimplegui=4.41.2
+pyinstaller=4.3
