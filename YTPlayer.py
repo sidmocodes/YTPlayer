@@ -1,5 +1,6 @@
 import PySimpleGUI as sg
 import os.path
+import _tkinter
 import webbrowser
 import time
 
